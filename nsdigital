@@ -1324,7 +1324,7 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id" group-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_INDONESIA.png" tvg-logo="https://i.imgur.com/BF5orkg.png" group-title="INDONESIA",Inspira TV [Not 24/7]
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDONESIA",CNBC INDONESIA (720p)
+#EXTINF:-1 tvg-id="CNBCINDONESIA.id" tvg-logo="https://i.imgur.com/bUfeG7Y.png" group-title="INDONESIA",CNBC INDONESIA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
