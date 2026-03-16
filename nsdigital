@@ -460,6 +460,68 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
+## BEIN
+
+
+@#EXTINF:-1 tvg-id="beINSports" tvg-logo="https://i.ibb.co/Cp1QZcjr/bein-sports-1-logo-png-seeklogo-481583.png" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144",BeIN SPORTS 1 HD (Not 24H)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/41R9HwOLEdrX6XIRjESJHbh0EiNgs4AEX_c9IsfHf9DDI=9nb3/dash-wv/jitp-linearwm/408/default_ott.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="beINSports" tvg-logo="https://i.ibb.co/VWDLQptJ/bein-sports-3-logo-png-seeklogo-481585.png" tvg-logo="https://i.ibb.co/Cp1QZcjr/bein-sports-1-logo-png-seeklogo-481583.png" group-title="Sports",BeIN SPORTS 1 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
+https://unifi.whacat.tech/Bein1
+
+
+
+@#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://i.ibb.co/GfLprFRr/bein-sports-2-logo-png-seeklogo-481584.png",BeIN SPORTS 2 HD (Not 24H)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linears2-playback.astro.com.my/vsg/419sfeOJLK0nPKF2LPhpzHD0QpUs8Icp4N8vyE5BQLjX8=zpLs/dash-wv/jitp-linearwm/5066/default_ott.mpd
+
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/GfLprFRr/bein-sports-2-logo-png-seeklogo-481584.png",BeIN SPORTS 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
+https://unifi.whacat.tech/Bein2
+
+
+
+@#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="Sports" tvg-logo="https://i.ibb.co/VWDLQptJ/bein-sports-3-logo-png-seeklogo-481585.png",BeIN SPORTS 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
+
+#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/VWDLQptJ/bein-sports-3-logo-png-seeklogo-481585.png" group-title="Sports",822 beIN SPORTS 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
+https://unifi.whacat.tech/Bein3
+
+
+###### SPOTV
+
+#EXTINF:-1 tvg-id="706.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png" group-title="Sports",SPOTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Hxqfws3pAkDQeY4D/hQYA","kid":"W1k71TDxQDqPPrmyzZI2yA"}],"type":"temporary"}
+https://unifi.whacat.tech/spoTV
+
+#EXTINF:-1 tvg-id="707.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184626019h4r.png" group-title="Sports",SPOTV2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PcQLxarwmvixVyZGpFsSQg","kid":"GvB5+44dQ9iQwdgEQxrYTA"}],"type":"temporary"}
+https://unifi.whacat.tech/spoTV2
 
 
 ############################## MALAYSIA#############################################
