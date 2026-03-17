@@ -998,7 +998,7 @@ http://202.169.224.202:8800/udp/239.9.1.5:1234
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6dc31ac1031242a8b0c37286acb66a37:648286167b494bf9ee122eced0e37de1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiTu6g42SjZPB0PpxWxLS9HgAfAuWzUY3HMgRrn44H0gqNHzMvwxh2qCqkLBm7VchY3xKI0xH5VCYDhh7SnbZK-4wcyQc6IFpqV-m376XjSdZRu_8E-ng_untpDJtrYwXJrJ43eL6LTH9YU2hEBzrfSLtyEZH3lPheVAlIOapyC15eQijfv1II9fBoMA-Fx" group-title="LIFESTYLE",708 Food Network
+#EXTINF:-1 tvg-id="Food.Network.id" tvg-name="Food Network" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiTu6g42SjZPB0PpxWxLS9HgAfAuWzUY3HMgRrn44H0gqNHzMvwxh2qCqkLBm7VchY3xKI0xH5VCYDhh7SnbZK-4wcyQc6IFpqV-m376XjSdZRu_8E-ng_untpDJtrYwXJrJ43eL6LTH9YU2hEBzrfSLtyEZH3lPheVAlIOapyC15eQijfv1II9fBoMA-Fx" group-title=" DOCUMENTARY",708 Food Network
 https://atemecdnbalancer-voe.sysln.id/live/eds/FoodNetworkHD/mediampd/FoodNetworkHD.mpd
 
 
