@@ -1941,7 +1941,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/900/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
 #EXTINF:-1 tvg-id="BloombergTV" tvg-name="Bloomberg TV HD" group-title="NEWS" group-logo="" tvg-logo="https://get.perfecttv.net/logo/bloombergtv.png", Bloomberg Tv
-#https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/BloombergHD/mpd/BloombergHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aed600d8f9c74267b03e7050bd442ffa:26065a2053d49dc3f07fd5d302eb4678
@@ -1975,6 +1975,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2110/default_ott.mpd
   
 #EXTINF:-1 tvg-id="WPIXDT1.us" group-title="NEWS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/512px-PIX11_2017.svg.png",PIX11 (720p)
 #https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
+
 
 
 ############################## THAILAND ####################################################################
