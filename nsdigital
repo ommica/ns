@@ -823,7 +823,7 @@ https://service.samproject.my.id/unifi/Inspirasi.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce43641a061a44fb9d95d986cfc9a68f:3d63855ca5cdfcfb765f306b98bcc646
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://unifi.whacat.tech/TV3
+#https://unifi.whacat.tech/TV3
 
 #EXTINF:-1 tvg-id="128.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title=" UNIFI TV",Dunia Sinema 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -831,8 +831,8 @@ https://unifi.whacat.tech/TV3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=01a17625701e4734b02aa22c8657bd6f:975a483df422455dbc29a1d83ed6f154
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
-https://service.samproject.my.id/unifi/DuniaSin.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=DuniaSin
+#https://service.samproject.my.id/unifi/DuniaSin.mpd
 
 #EXTINF:-1 tvg-id="121.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/F101B330-8D9C-4670-9DE3-2C53E8866EA0/0-16x9.png?width=530" group-title=" UNIFI TV",SIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -840,16 +840,16 @@ https://service.samproject.my.id/unifi/DuniaSin.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=5489f58c64ad40dba471c8b1c2693e2a:24acd49fa8aa6a5532dd045bab1f53e4
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=SIAR
-https://service.samproject.my.id/unifi/SIAR.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=SIAR
+#https://service.samproject.my.id/unifi/SIAR.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/8F641B7A-CC55-497E-9C73-B1F10ADA7541/0-16x9.png?width=530" group-title=" UNIFI TV",Sensasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ba270026f0a4b29956ace51335fb1ac:edb6adbe31609226e737e515ba813169
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=Sensasi
-https://service.samproject.my.id/unifi/Sensasi.mpd
-https://mimipipi22.github.io/logo/offline.m3u8
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Sensasi
+#https://service.samproject.my.id/unifi/Sensasi.mpd
+#https://mimipipi22.github.io/logo/offline.m3u8
 
 #EXTINF:-1 tvg-id="120.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/07A79742-0FA2-4DD8-8F98-929157AE96DF/0-16x9.png?width=530" group-title=" UNIFI TV",DEGUP
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -857,8 +857,8 @@ https://mimipipi22.github.io/logo/offline.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a1623b766e4b48eb88cea29e1c309cc7:c21b36991b29928a80dc0a146beeac90
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=DEGUP
-https://service.samproject.my.id/unifi/DEGUP.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=DEGUP
+#https://service.samproject.my.id/unifi/DEGUP.mpd
 
 #EXTINF:-1 tvg-id="113.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/1CE8DFF2-DF3E-4EFD-8D01-3D261D0890DD/0-16x9.png?width=530" group-title=" UNIFI TV",Salam 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -866,8 +866,8 @@ https://service.samproject.my.id/unifi/DEGUP.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
-https://service.samproject.my.id/unifi/Salam.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Salam
+#https://service.samproject.my.id/unifi/Salam.mpd
 
 #EXTINF:-1 tvg-id="118.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/571B75B0-7857-425F-BB88-9D8E12E7903B/0-16x9.png?width=530" group-title=" UNIFI TV",Inspirasi
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -875,8 +875,8 @@ https://service.samproject.my.id/unifi/Salam.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=94bfaa51ce3c4acfb8a8d5a7229316b6:1bc4bd67943da9eae142af71e31727af
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
-https://service.samproject.my.id/unifi/Inspirasi.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Inspirasi
+#https://service.samproject.my.id/unifi/Inspirasi.mpd
 
 #EXTINF:-1 tvg-id="141.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/4BDA018A-6442-4561-85D4-CD8333CA2560/0-16x9.png?width=530" group-title=" UNIFI TV",Pesona 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -884,8 +884,8 @@ https://service.samproject.my.id/unifi/Inspirasi.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d6a2211cff9545979f6f1a09851fa495:804119b128f5fe51dba371d18b3c70c5
-https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
-https://service.samproject.my.id/unifi/Pesona.mpd
+#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Pesona
+#https://service.samproject.my.id/unifi/Pesona.mpd
 
 
 
