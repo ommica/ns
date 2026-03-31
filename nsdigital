@@ -642,7 +642,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 @https://unifi.whacat.tech/TV3
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3
-https://tupai.kakiflix.com/TV3
+#https://tupai.kakiflix.com/TV3
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -834,9 +834,9 @@ https://service.samproject.my.id/unifi/Inspirasi.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 @https://unifi.whacat.tech/TV3
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV3
-https://tupai.kakiflix.com/TV3
+#https://tupai.kakiflix.com/TV3
 
-#EXTINF:-1 tvg-id="duniasinemahd.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="UNIFI TV",Dunia Sinema
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="duniasinemahd.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/66BD76C5-BEFD-476A-9688-87AFCE8E8526/0-16x9.png?width=530" group-title="UNIFI TV",Dunia Sinema
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
