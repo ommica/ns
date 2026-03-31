@@ -628,7 +628,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 
 
 
-#EXTINF:-1  tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIorf8J9vspi_GqvMqWYn8PX_hsEkr7ipUbuxvhzj1Khka2VgUqX-k_5hRYIPvYhuJLNJmlUaxh2r5Es5NO0IZDhbmrth6Nj08ZJiedX0z10UTwAbtd7qTRMbS_chS6j_gxcm9yoMEBUybvV4xX2oxlDpgqlFxQEbtar4cZ6iz430MOh0IqT2zU-DKPYN_",103 TV3 SD
+#EXTINF:-1  tvg-id="TV3" ch-number="103" tvg-name="TV3" group-title=" MALAYSIA" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgIorf8J9vspi_GqvMqWYn8PX_hsEkr7ipUbuxvhzj1Khka2VgUqX-k_5hRYIPvYhuJLNJmlUaxh2r5Es5NO0IZDhbmrth6Nj08ZJiedX0z10UTwAbtd7qTRMbS_chS6j_gxcm9yoMEBUybvV4xX2oxlDpgqlFxQEbtar4cZ6iz430MOh0IqT2zU-DKPYN_",103 TV3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
