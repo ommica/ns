@@ -473,7 +473,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_primary.mpd
 #EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
-## BEIN
+##############################BEIN#####################################
 
 
 #EXTINF:-1 group-logo="" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 1 HD
@@ -554,7 +554,7 @@ https://tupai.kakiflix.com/beINSPORTS3
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
 
 
-###### SPOTV
+##############################SPOTV#####################################
 
 #EXTINF:-1 tvg-id="706.unifi" tvg-logo="http://playtv.unifi.com.my:7120/CPS/images/universal/film/logo/202109/20210930/20210930184212950ddn.png" group-title="Sports",SPOTV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -573,17 +573,6 @@ https://tupai.kakiflix.com/spoTV
 @https://unifi.whacat.tech/spoTV2
 #https://sghost.mobileads.uno/uni5/uni5.mpd?id=spoTV2
 https://tupai.kakiflix.com/spoTV2
-
-
-#EXTINF:-1 tvg-id="unifisports1.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=160&updatedTime=0&dt=Web" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png" group-title="Sports", Unifi1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"SvhCua1TFaAddlW4tQIZbw","kid":"kMfrXWa0QqmlkXdcwRVLyQ"}],"type":"temporary"}
-@https://unifi.whacat.tech/unifi1
-#https://sghost.mobileads.uno/uni5/uni5.mpd?id=unifi1
-https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=unifi1&kid=90c7eb5d-66b4-42a9-a591-775cc1154bc9
-
 
 ############################## MALAYSIA#############################################
 
