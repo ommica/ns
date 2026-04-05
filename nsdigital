@@ -53,7 +53,7 @@ https://mimipipi22.github.io/logo/offline.m3u8
 
 ##404
 #EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="MALAYSIA" ch-number="404",404 BOO (Not 24H)
-http://217.216.110.49:8000/booJ1
+http://217.216.110.49:8000/booK9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -62,6 +62,7 @@ http://217.216.110.49:8000/booJ1
 https://20c45cf794ec4a3cac12fb76717fd621.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH18-dash/vsg/41pro8VaO0mYHITk5ZCN1KsmrbEOpTShPGwcQiG2q7He4=J_C0/dash-wv/jitp-dashisowm/2407/default_ott.mpd?aws.sessionId=64bebd59-0d13-499a-8293-f6fcd23c140f
 
 @#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="BOO" tvg-name="BOO" tvg-logo="https://i.ibb.co/hF69DQJq/Astro-Boo-2024.png" group-title="MALAYSIA" ch-number="404",404 BOO (Not 24H)
+https://load.perfecttv.net/rwt.mpd?username=vip_q71m0c0p&password=bRl79f&channel=boo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -72,7 +73,7 @@ https://linears2-playback.astro.com.my/vsg/41L7eoML7MfkpsFs-7zVhAsmutJ-KJ9YcTGUp
 
 ##611
 #EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
-http://217.216.110.49:8000/ceriaJ1
+http://217.216.110.49:8000/ceriaK9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -150,7 +151,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd?PID=&PAID=5057&deviceIdType=%5BdevIdType%5D&deviceId=71be0d5043f7a2ab1b1b26b5de0c05a5&appId=astrogo.astro.com.my&appName=%5BappName%5D&devModel=%5BdevModel%5D&playerWidth=%5BplayerWidth%5D&playerHeight=%5BplayerHeight%5D&sessionId=abr-linear-2e476fb6-c0c3-462e-836e-0c2f1887d3dd&optin=true&hhid=126ed83851cdc77d641fbbdda3c97d0e&kvp=genre%7EHD%2CSPORTS%2CALL&daiEnabled=true
 
 --------------------------------------------------------
-############################ ARENA BOLA
+############################ARENA BOLA############################ 
 
 ##803
 #EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
@@ -363,7 +364,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 
 
-
+###################################################################################################
+###################################################################################################
 
 
 ##### TNT SPORTS
