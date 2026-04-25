@@ -169,9 +169,9 @@ https://2da559d4c1d24884a735abbc512e6181.mediatailor.ap-southeast-1.amazonaws.co
 https://linears2-playback.astro.com.my/vsg/411CEN3FysWIeFtcTy0-4fAxxSKGREuRrPQOm6jf_mQHA=dFmL/dash-wv/jitp-linearwm/5099/default_ott.mpd
 
 #EXTINF:-1 group-logo="" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
-http://217.216.110.49:8000/bola1fx97
+##http://217.216.110.49:8000/bola1fx97
 ##http://217.216.110.49:8000/bola1yp65
-##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola1
+https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola1
 
 
 
@@ -185,9 +185,9 @@ http://217.216.110.49:8000/bola1fx97
 https://linears2-playback.astro.com.my/vsg/41EIzfYqm94C7larpD54uzqONhv7-AI3_rOOjMRKiA6Xo=Qg5G/dash-wv/jitp-linearwm/5100/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola2" ch-number="804" tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="Sports",804 Arena Bola 2 HD (Not 24H)
-##http://217.216.110.49:8000/bola2fx97
-http://217.216.110.49:8000/bola2yp65
-##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=bola2
+http://217.216.110.49:8000/bola2fx97
+##http://217.216.110.49:8000/bola2yp65
+##https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=bola2
 
 
 
@@ -230,8 +230,8 @@ https://09494360a707453480cd47f514ea1800.mediatailor.ap-southeast-1.amazonaws.co
 
 #EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro SuperSport 2 HD" ch-number="812" group-title="Sports" tvg-logo="https://i.ibb.co/6cMp29gT/Astro-Premier-League-1-2024.png",812 Premier League 2 HD (Not 24H)
 ##http://217.216.110.49:8000/epl2fx97
-http://217.216.110.49:8000/epl2yp65
-##https://load.perfecttv.net/rwt.m3u8?username=vip_pjgkj04t&password=sM53WzmS&channel=epl2
+##http://217.216.110.49:8000/epl2yp65
+https://load.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=epl2
 
 
 
