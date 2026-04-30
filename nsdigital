@@ -270,31 +270,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
 
 
 
-##### PREMIER HUB
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1
-http://lunar.pm:8080/Mrdon/4782314540/110288
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",Hub Premier 2
-http://lunar.pm:8080/Mrdon/4782314540/110289
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",Hub Premier 3
-http://lunar.pm:8080/Mrdon/4782314540/110290
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png",Hub Premier 4
-http://lunar.pm:8080/Mrdon/4782314540/110291
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",Hub Premier 5
-http://lunar.pm:8080/Mrdon/4782314540/110292
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png",Hub Premier 6
-http://lunar.pm:8080/Mrdon/4782314540/110293
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yY661W8j/ezgif-5e11ac99172a013e.png",Hub Premier 7
-http://lunar.pm:8080/Mrdon/4782314540/110294
-
-@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png",Hub Premier 8
-http://lunar.pm:8080/Mrdon/4782314540/110295
 
 ############################# COMMON SPORT
 
@@ -383,12 +358,28 @@ https://jmp2.uk/stvp-US700005ID
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
 
-#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",825 EUROSPORTS
+@#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",825 EUROSPORTS
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 @#EXTINF:-1 channel-id="pluto-5a74b8e1e22a61737979c6bf" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="Sports" , FOX Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 FbbRys Build/RTM5.220609.199FbbRys; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
@@ -440,83 +431,37 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 ## BEIN
 
 
-@#EXTINF:-1 group-logo="" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#https://linears2-playback.astro.com.my/vsg/41R9HwOLEdrX6XIRjESJHbh0EiNgs4AEX_c9IsfHf9DDI=9nb3/dash-wv/jitp-linearwm/408/default_ott.mpd
-
-#EXTINF:-1 group-logo="" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 1 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="beinsports" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/A0C43E09-6105-4CD5-9F44-390B57BCA1A5/0-16x9.png?width=530" group-title="Sports",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
-#https://unifi.whacat.tech/Bein1
-https://get.perfecttv.net/myunifi.mpd?username=vip_pjgkj04t&password=sM53WzmS&channel=Bein1&kid=d48b6088-253c-443e-b94d-27cb7828f707
+#KODIPROP:inputstream.adaptive.license_key=d48b6088253c443eb94d27cb7828f707:e9776141f9e949273a072b0e035070ab
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein1&provider=mytech
 
-@#EXTINF:-1 group-logo="" tvg-id="beINSports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 1 HD B
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="beinsports2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/B6AE264E-3B1A-4E37-B9A2-43D912FC89D7/0-16x9.png?width=530" group-title="Sports",beIN SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"6XdhQfnpSSc6BysOA1Bwqw","kid":"1ItgiCU8RD65TSfLeCj3Bw"}],"type":"temporary"}
-#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein1
+#KODIPROP:inputstream.adaptive.license_key=efa6ff1acefa43048e8b7adc21d98871:5d0f448b52a92035e3763c4a60275933
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein2&provider=mytech
 
-
-
-@#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UQKxKqx3VsZdy0ahAdlg0w","kid":"OcF1WB4jfv+VWWB+ubI8EA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linears2-playback.astro.com.my/vsg/419sfeOJLK0nPKF2LPhpzHD0QpUs8Icp4N8vyE5BQLjX8=zpLs/dash-wv/jitp-linearwm/5066/default_ott.mpd
-
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="beinsports3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/03E8ED19-B3A5-44F1-9176-4EC1FD68B0A1/0-16x9.png?width=530" group-title="Sports",beIN SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
-#https://unifi.whacat.tech/Bein2
-https://get.perfecttv.net/myunifi.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=Bein2&kid=efa6ff1a-cefa-4304-8e8b-7adc21d98871
+#KODIPROP:inputstream.adaptive.license_key=816ee2f7c19f49ed84276f34541b465b:ca764a9973b6123a1112cffd3b32010d
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein3&provider=mytech
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Sports" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png",BeIN SPORTS 2 HD B
-#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTINF:-1 tvg-id="beinsports4" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/C0FFC072-D51A-4676-B232-F1C06BFA87D1/0-16x9.png?width=530" group-title="Sports",beIN SPORTS 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"XQ9Ei1KpIDXjdjxKYCdZMw","kid":"76b/Gs76QwSOi3rcIdmIcQ"}],"type":"temporary"}
-#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein2
-
-
-
-#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_primary.mpd
-
-@#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 3 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
-#https://unifi.whacat.tech/Bein3
-https://tupai.kakiflix.com/beINSPORTS3
-
-#EXTINF:-1 tvg-id="beinsports3.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 3 HD B
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ynZKmXO2EjoREs/9OzIBDQ","kid":"gW7i98GfSe2EJ280VBtGWw"}],"type":"temporary"}
-#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein3
-
-
-
-#EXTINF:-1 tvg-id="711.unifi" tvg-logo="https://i.ibb.co/X9JhHyY/bein-edit-2.png" group-title="Sports",BeIN SPORTS 4 HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
-#https://unifi.whacat.tech/Bein4
-#https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4
+https://sghost.mobileads.uno/uni5/uni5.mpd?id=Bein4&provider=mytech
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/ZKRWnbJt/ezgif-69fad25e688537d0.png",Bein On Demand
+http://front-main.eagle-4k.me/live/rmt8r91bac/tsleey7v5g/149599.m3u8
 
 
 ###### SPOTV
@@ -537,6 +482,35 @@ https://fta3-cdn-flr.visionplus.id/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
+
+##### PREMIER HUB
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1
+##http://lunar.pm:8080/Mrdon/4782314540/110288
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",Hub Premier 2
+##http://lunar.pm:8080/Mrdon/4782314540/110289
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",Hub Premier 3
+##http://lunar.pm:8080/Mrdon/4782314540/110290
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png",Hub Premier 4
+http://lunar.pm:8080/Mrdon/4782314540/110291
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",Hub Premier 5
+http://lunar.pm:8080/Mrdon/4782314540/110292
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png",Hub Premier 6
+http://lunar.pm:8080/Mrdon/4782314540/110293
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/yY661W8j/ezgif-5e11ac99172a013e.png",Hub Premier 7
+http://lunar.pm:8080/Mrdon/4782314540/110294
+
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png",Hub Premier 8
+http://lunar.pm:8080/Mrdon/4782314540/110295
 
 --------------------------------
 
