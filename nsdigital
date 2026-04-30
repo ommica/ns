@@ -288,7 +288,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PhtXwGaZx+QI56pJ/1fU9A", "kid":"MiX4N6S5XW5GaDxTgYwXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroPremierLeague4" tvg-name="AstroPremierLeague4" group-title="MOVIES" tvg-logo="FAM Time" ch-number="818", FAM Time (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroPremierLeague4" tvg-name="AstroPremierLeague4" group-title="MOVIES" tvg-logo="FAM" ch-number="818", FAM Time (Not 24H)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott.mpd
 
