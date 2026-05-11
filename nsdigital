@@ -551,6 +551,41 @@ http://lunar.pm:8080/Mrdon/4782314540/110294
 @#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/X7wVkFDv/ezgif-5cb535d3cb8b690e.png",Hub Premier 8
 http://lunar.pm:8080/Mrdon/4782314540/110295
 
+#################### TNT Sports
+
+#EXTINF:-1 group-title="Sports" tvg-id="tnt100a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6566/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="tnt200a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/2506/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="tnt300a" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 3 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/6564/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="tnt400aa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdfH03NGMKIvM39OFPc9t0VSwprb7OZxCvUA&usqp=CAU",TNT Sports 4 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/index.m3u8
+
+############################ SKY SPORTS
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League HD
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football HD
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
+
+
+## TSN
+#EXTINF:-1 tvg-id="TSN.1.ca2" group-title="Sports" tvg-logo="https://i.imgur.com/fs7QEno.png", TSN 1 HD
+http://tvmate.icu:8080/kenvdh@comcast.net/bsxUzgG6uT/57292
+
+## SOCCER CHANNEL
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/PvgtHHTy/ENT6-PL0-X-400x400.jpg" group-title="Sports",Soccer Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
 --------------------------------
 
 #EXTINF:-1 tvg-id="unifisports1.unifi" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/28EEC6E6-98AD-44E7-8CF3-101111099742/0-16x9.png?width=160&updatedTime=0&dt=Web" group-logo="https://playtv.unifi.com.my/EPG/WEBTV/assets/images/unifi_logo_white.png" group-title="Sports", Unifi1
