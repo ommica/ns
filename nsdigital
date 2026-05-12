@@ -45,7 +45,7 @@ http://217.216.110.49:8000/boop90
 
 
 ##611
-@#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+@#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -53,7 +53,7 @@ http://217.216.110.49:8000/boop90
 #KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
 https://linears2-playback.astro.com.my/vsg/41M5mtT5NqINkq9ZcwkCb8zLFgY9GLekzhrDInEj9Cq14=iPhV/dash-wv/jitp-linearwm/2606/default_ott.mpd
 
-#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="AstroCeria" tvg-name="CERIA HD" group-title="KIDS TV" tvg-logo="https://i.ibb.co/ycDN5VtK/Astro-Ceria-2024.png" ch-number="611",611 Ceria HD (Not 24H)
 ##http://217.216.110.49:8000/ceriay70
 http://217.216.110.49:8000/ceriap90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_q71m0c0p&password=TTQtGNkD&channel=ceria
