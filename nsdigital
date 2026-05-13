@@ -2059,11 +2059,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/KIXHD/mediampd/KIXHD.mpd
 
-#EXTINF:-1  group-title="MOVIES" tvg-name="ROCK Action" tvg-id="474" ch-number="474" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhyTH30DycFtN9wfNsERC3HIJaDUjdlZTNhBsYIK1EJN71C-9V-bF0y6k_O8w4GntKuySzmRvl9num6zuFpd6dac-KyN8Nt70MWPdFVXrAafGatrdZESXIo27-EfUWHGXg_UapKR0eJtN5OYhKLsrkBuKJZd4fCfNiCaQTsUjpvu6J3aolf1D66pUK7S1mo",474 ROCK Action
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"hXN5H6Vb/wOjCU/1WfwUBw", "kid":"PdZT/Hqh4wdbfwIzYg32jw" } ], "type":"temporary" }
-https://slive.mana2.my/RockAction/index.mpd
 
 
 
