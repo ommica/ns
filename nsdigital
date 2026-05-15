@@ -374,7 +374,7 @@ http://185.160.192.64:80/mangin15/85784/303579
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png",833 Premier Sports
+#EXTINF:-1 tvg-id="PremierSports" tvg-name="Premier Sports HD" group-title="Sports" group-logo="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png",833 Premier Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_ott.mpd
 
@@ -405,7 +405,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KGObz7XL7o/5yjmPz1v80A", "kid":"cFurXmRbbXyVWIspUg+BEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="Sports" group-logo="https://play-lh.googleusercontent.com/8kZu8O9u6r3et26EfI22uPI396XgFbaUR6v_Zj-GeyV3k5FgNovdg0-WxrqgiJxXKKw=w272-h144" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",831 GOLF
+#EXTINF:-1 tvg-id="GolfChannel" tvg-name="Golf Channel HD" group-title="Sports" group-logo="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png",831 GOLF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 
