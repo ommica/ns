@@ -131,7 +131,7 @@ http://217.216.110.49:8000/bola2p90
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSportsUHD" ch-number="805" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="Sports",805 SuperSport UHD (No Audio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
+#https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
 
@@ -258,21 +258,25 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/HBX28K5SXCR6EH/19054/ind
 ##### PREMIER HUB
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/hGszyVJ7/ezgif-51f1d228973424c5.png",Hub Premier 1 HD
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57435.ts
 ##http://myxpanel.pro:80/live/jhart/jhart/288375.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620786&extension=ts&play_token=LQgFudtzsy
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/3R6wV1YP/ezgif-59db78b6e31298f0.png",Hub Premier 2 HD
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57436.ts
 ##http://myxpanel.pro:80/live/jhart/jhart/288374.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620785&extension=ts&play_token=nTZq3hrxEk
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/mkHYhVjR/ezgif-5436d8b5aa443574.png",Hub Premier 3 HD
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57437.ts
 ##http://myxpanel.pro:80/live/jhart/jhart/288373.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620784&extension=ts&play_token=Q1vm1lIcOy
 
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/W12ZPsBP/ezgif-5c91f29f67e41056.png",Hub Premier 4 HD
-http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/57438.ts
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:4C:00:56&stream=620783&extension=ts&play_token=vpHVTyCbNb
 
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",Hub Premier 5 HD
+@#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/4xLYkVvt/ezgif-5420cd2a35aedeeb.png",Hub Premier 5 HD
 http://greenslime.cx/live/Bklyn347/QY06ksq41x/57439.ts
 
 @#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/jdR2DZZF/ezgif-5bb19f4e9cc1aa33.png",Hub Premier 6 HD
