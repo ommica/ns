@@ -12,7 +12,7 @@ Jangan tekan link ni. Taip link ni kat url playlist ott.
 
 ####################################################################
 
-#EXTM3U billed-msg="BELI DI SHOPEE NS.Digital - 1 DEVICES"
+#EXTM3U billed-msg="WASAP 011-17498552 UTK PEMBELIAN / PERTANYAAN - 1 DEVICES"
 
 ####################################################################
 
@@ -125,13 +125,6 @@ http://217.216.110.49:8000/bola2p90
 ##https://cf.perfecttv.net/rwt.m3u8?username=vip_tr05fxco&password=ym9HNHZe&channel=bola2
 
 
-
-##805
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"7hrhzQhvqb/AUF5tXp4n6Q", "kid":"isiy968FrYKYBTRaUXvBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSportsUHD" ch-number="805" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="Sports",805 SuperSport UHD (No Audio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_ott.mpd
 
 
 
