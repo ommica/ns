@@ -72,6 +72,16 @@ http://217.216.110.49:8000/ceriap90
 
 ##################### SPORTS CHANNEL 
 
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United x Notthingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f 
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd 
+ 
+ @#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Manchester United vs Notthingham Forest
+ #EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 15; SM-S938B Build/AP3A.240905.015.A2; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/146.0.7680.164 Mobile Safari/537.36","referer":"https://ggsoccer.net/","origin":"https://proxy.lme.isroot.in"}
+https://tvnow.ggsoccerid.workers.dev/stream?id=manchester-united-vs-nottingham-forest-20521
+
 
 ##803
 @#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-id="803.astro" tvg-name="ARENA BOLA" group-title="Sports" tvg-logo="https://i.ibb.co/DRvRqg9/Astro-Arena-Bola-1-2024.png" ch-number="803",803 Arena Bola HD (Not 24H)
