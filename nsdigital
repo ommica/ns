@@ -368,7 +368,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/1003/default_ott.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
 
 
-#######
+#############################################################################
 
 -------------------------------------------------------------------------------
 #EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg" tvg-logo="https://i.ibb.co/WpdYqb47/live-webcast-broadcasting-symbol-online-events-1017-62406.jpg" group-title="Sports",Live Only
@@ -397,6 +397,59 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
 
+############################ SKY SPORTS
+
+#EXTINF:-1 tvg-id="Sky.Sports.Premier.League.HD.ie" group-title="Sports" tvg-logo="https://i.imgur.com/jUNWDBA.png", Sky Sports Premier League HD
+##http://greenslime.cx/live/Bklyn347/QY06ksq41x/16559.ts
+http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/9334/index.m3u8
+
+@#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.ie" group-title="Sports" tvg-logo="https://i.imgur.com/0T40zcs.png", Sky Sports Football HD
+http://greenslime.cx/live/Bklyn347/QY06ksq41x/48551.ts
+
+## SOCCER CHANNEL
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/rRNwBvfF/jadwal-program-soccer-channel-1140x641.jpg" group-title="Sports",Soccer Channel HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://fta4-cdn-flr.visionplus.id/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+## ONE CHAMPIONSHIP
+@#EXTINF:-1 tvg-id="ver6" group-title="Sports" ch-number="818" tvg-logo="https://i.ibb.co/zWFzGpfg/one-championship-logo-black-on-white-png-400x283-q85-crop-subsampling-2-upscale-1.png",ONE Championship
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.0.2171.93 Safari/537.36
+https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
+
+#EXTINF:-1  tvg-id="US700005ID" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700005ID_20250408T020812SQUARE.png" tvg-chno="2904" group-title="Sports",WWE HD (France)
+http://185.160.192.64:80/mangin15/85784/303579
+##https://jmp2.uk/stvp-US700005ID
+
+@#EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport HD" group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",825 EUROSPORTS
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mediampd/EUROSPORTHD.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="MUTV.uk" ch-number=" " tvg-name="MUTV" tvg-logo="https://i.ibb.co/MMb4NGr/download-15-modified.png" group-title="Sports",MUTV
+https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTMyODAxMTIifQ.CpuijBxTUYZTaso6UHbVTjXMcRD3m5x7cL4ygwCFL48/playlist-dash.mpd
 
 
 
