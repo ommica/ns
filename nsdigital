@@ -454,19 +454,58 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 
 
 
+#############################################FIFA WORLDS CUP 2026 #############################################
 
+#EXTINF:-1 group-logo="https://iili.io/fyuagEX.jpg"
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 2
+https://e3be9ac5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNQb3J0dWd1ZXNlX0hMUw/playlist.m3u8
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ATBA3300007PT
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-CABD1200008JG
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-CHBA3300010UC
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-DEBA3300019EB
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ESBC2700009B4
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-FRBA3300037Y7
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-GBBD1100008YW
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-INBA5100009V3
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-ITBD1000002HF
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-KRBD1900001Y2
 
+#EXTINF:-1  tvg-id="" tvg-logo="https://i.ibb.co/PGmQp0XY/images.jpg" group-title="FIFA WORLD CUP 2026" , FIFA+ 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://jmp2.uk/stvp-USBD12000255B
 
 
 
@@ -531,7 +570,19 @@ https://fastly.live.brightcove.com/6374053280112/eu-west-1/6058004203001/eyJhbGc
 
 
 
-############################## MALAYSIA#############################################
+
+
+
+
+
+
+
+
+
+
+
+
+############################## MALAYSIA #############################################
 
 
 
